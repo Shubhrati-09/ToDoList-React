@@ -1,4 +1,4 @@
-<img width="952" alt="Screenshot 2025-05-31 at 1 36 43 AM" src="https://github.com/user-attachments/assets/66f6024c-a254-411a-acf6-5457ce44e1e2" /># 📝 React ToDo List App
+# 📝 React ToDo List App
 A modern and visually appealing **ToDo List** application built using **React + Vite** and **Tailwind CSS**. This project helped me solidify my understanding of React concepts, especially **Context API**, and explore reusable, global state management techniques.
 
 ---
@@ -61,9 +61,7 @@ Pull requests are welcome! If you have ideas for new features, UI improvements, 
 ---
 
 ## 📸 Screenshots
-
-[Uploading Screenshot 2025-05-31 at 1.36.43 AM.png…]()
-
+<img width="500" height="auto" alt="Screenshot 2025-05-31 at 1 36 43 AM" src="https://github.com/user-attachments/assets/66f6024c-a254-411a-acf6-5457ce44e1e2" />
 ---
 
 ## 🙌 Credits
