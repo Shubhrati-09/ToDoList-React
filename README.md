@@ -36,7 +36,7 @@ https://shubhrati-09.github.io/ToDoList-React/
 ## 🔁 Difference from my Previous Project
 ### [🔗 ToDoTaskManager (Plain JS version)](https://github.com/Shubhrati-09/ToDoTaskManager)
 
-| Feature | Old Version (Vanilla JS) | New Version (React) |
+| Feature | Old Version (JS) | New Version (React) |
 |--------|---------------------------|----------------------|
 | Tech Stack | HTML, CSS, JavaScript | React(with Vite), Tailwind CSS |
 | State Management | DOM & manual state updates | Context API for global state |
