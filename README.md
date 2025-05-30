@@ -1,12 +1,77 @@
-# React + Vite
+# 📝 React ToDo List App
+A modern and visually appealing **ToDo List** application built using **React + Vite** and **Tailwind CSS**. This project helped me solidify my understanding of React concepts, especially **Context API**, and explore reusable, global state management techniques.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 🚀 Live Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+_(Add live site link here if deployed)_
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📚 What I Learned
+
+- **React & Component-Based Architecture**  
+  Built reusable components to manage tasks more cleanly.
+
+- **Context API**  
+  Instead of prop drilling, I used **React's Context API** to manage and share state (like the task list and functions to add, edit, delete, or toggle tasks) globally across components.  
+  > The Context API allows you to create a global data layer and access or update shared state from **any component** without passing props manually at every level.
+
+- **Tailwind CSS**  
+  Used for rapid UI development with utility-first styling.
+
+- **HeroPattern**  
+  Used background SVG patterns from [HeroPatterns](https://heropatterns.com/) to make the app look elegant.
+
+- **Local Storage**  
+  Tasks are stored in the browser's local storage — so they persist even after reloading the page.
+
+---
+
+## ✨ Features
+
+- ✅ Add new tasks
+- ✅ Edit existing tasks
+- ✅ Delete tasks
+- ✅ Mark tasks as completed
+- ✅ Persist data with local storage
+
+---
+
+## 🔁 Difference from my Previous Project
+
+### [🔗 ToDoTaskManager (Plain JS version)](https://github.com/Shubhrati-09/ToDoTaskManager)
+
+| Feature | Old Version (Vanilla JS) | New Version (React) |
+|--------|---------------------------|----------------------|
+| Tech Stack | HTML, CSS, JavaScript | React(with Vite), Tailwind CSS |
+| State Management | DOM & manual state updates | Context API for global state |
+| UI Design | Custom CSS | Tailwind + HeroPattern |
+| Data Storage | Local Storage | Local Storage |
+| Scalability | Limited | Component-based, more scalable |
+| Code Reusability | Low | High (with components) |
+
+---
+
+## 🤝 Collaboration
+
+Pull requests are welcome! If you have ideas for new features, UI improvements, or bug fixes — feel free to open an issue or a PR.
+
+---
+
+## 📸 Screenshots
+
+_(Optional: Add screenshots here to showcase the UI)_
+
+---
+
+## 🙌 Credits
+
+- Concept inspired by **Chai Aur Code**
+- Background SVGs from **HeroPatterns**
+- UI styled using **Tailwind CSS**
+
+---
+
+## 🧑‍💻 Developed with ❤️ by [Shubhrati Patel](https://github.com/Shubhrati-09)
