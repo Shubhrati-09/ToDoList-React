@@ -62,7 +62,7 @@ Pull requests are welcome! If you have ideas for new features, UI improvements, 
 
 ## 📸 Screenshots
 <img width="500" height="auto" alt="Screenshot 2025-05-31 at 1 36 43 AM" src="https://github.com/user-attachments/assets/66f6024c-a254-411a-acf6-5457ce44e1e2" />
----
+
 
 ## 🙌 Credits
 
